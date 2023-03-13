@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import codecs
 
-st.sidebar.image("Logo.jpg")
+st.sidebar.image("Logo.png")
 st.title('NETFLIX BY CHRISTIAN REYES')
 st.text("Christian Eduardo Amaro Reyes - S19004895")
 
